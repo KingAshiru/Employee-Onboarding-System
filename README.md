@@ -1,4 +1,4 @@
-# UserDataValidation
+# Employee Onboarding System
 Background
 
 You are the IT officer for a tech startup and you are in charge of onboarding new employees. 
